@@ -1,9 +1,12 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html>
 <html>
 	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		
 		<title>
 			Knights of Columbus
 		</title>
+		
 		<link href="http://www.kofc.org/common/styles/knights.css" rel="stylesheet" type="text/css">
 		<link href="assets/css/council.css" rel="stylesheet" type="text/css">
 		
@@ -11,12 +14,13 @@
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 		<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
 		
-		<link type="text/css" rel="stylesheet" media="screen" charset="utf-8" href="libraries/picasaViewer2.0/css/slimbox.css" />
-		<link type="text/css" rel="stylesheet" media="screen" charset="utf-8" href="libraries/picasaViewer2.0/css/picasaViewer.css" />
-		<script type="text/javascript" src="libraries/picasaViewer2.0/js/mootools-core-1.4.0-full-compat-yc.js"></script>
-		<script type="text/javascript" src="libraries/picasaViewer2.0/js/mootools-more-1.4.0.1.js"></script>
-		<script type="text/javascript" src="libraries/picasaViewer2.0/js/slimbox.js"></script>
-		<script type="text/javascript" src="libraries/picasaViewer2.0/js/picasaViewer2.0.js"></script>
+        <link href="libraries/fancyBox/jquery.fancybox.css?v=2.0.5" rel="stylesheet" type="text/css" media="screen" />
+        <link href="assets/css/jquery.picasagallery.css" rel="stylesheet" type="text/css" media="screen" />
+        <link href="libraries/fancyBox/helpers/jquery.fancybox-thumbs.css?v=2.0.5" rel="stylesheet" type="text/css" media="screen" />
+        
+        <script src="libraries/fancyBox/jquery.fancybox.pack.js?v=2.0.5" type="text/javascript"></script>
+        <script src="libraries/fancyBox/helpers/jquery.fancybox-thumbs.js?v=2.0.5" type="text/javascript"></script>
+        <script src="assets/js/jquery.picasagallery.js" type="text/javascript"></script>
 	</head>
 	<body>
 		<?php
