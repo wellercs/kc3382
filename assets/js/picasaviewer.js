@@ -5,7 +5,7 @@
 
 window.addEvent('domready', function() {
 
-	var username	= 'stgertrude20sgroup';
+	var username	= 'kc3382';
 
 	/*
 	The following values are valid for the thumbsize and imgmax query parameters and are embeddable on a webpage. 
