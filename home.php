@@ -6,10 +6,11 @@
 		The Grand Knight for 2012-2013 is Chad Rea.			
 	</p>
 	<h2 class="homesectionheader">Council Meetings</h2>
-	<p>
-		Council business meetings are the 2nd Tuesday of the month at 8pm in the St. Michael Cafeteria.
-		Rosary at 7:45pm.
-		Council social meetings are held the 4th Tuesday of the month at 8pm.  Rosary for Life at 7pm in the Church.				
+	<p>	
+		Council business meetings are the 2nd Tuesday of the month at 7:30pm in the St. Michael Cafeteria.
+		Rosary at 7:15pm.
+		Council social meetings are held the 4th Tuesday of the month at 7:30pm.
+		Rosary for Life at 7pm in the Church. 				
 	</p>
 	<h2 class="homesectionheader">About Our Council</h2>
 	<p>
