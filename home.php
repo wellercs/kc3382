@@ -3,7 +3,7 @@
 	<h2 class="homesectionheader">Council Activities</h2>
 	<p>
 		St. Michael Council is located at St. Michael Church in Sharonville, Ohio at 11144 Spinner Avenue.
-		The Grand Knight for 2008-2009 is John Donato.				
+		The Grand Knight for 2012-2013 is Chad Rea.			
 	</p>
 	<h2 class="homesectionheader">Council Meetings</h2>
 	<p>
