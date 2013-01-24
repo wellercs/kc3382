@@ -35,6 +35,20 @@ body {
 	padding-top: 15px;
 	zoom:1;
 }
+#announcementcontent {
+	background-color: red;
+	border: 2px solid white;
+    border-radius: 12px;
+    box-shadow: 1px 1px 1px black;
+	clear: both;
+	color: white;
+	font-weight: bold;
+	margin-top: 60px;
+	padding: 15px;
+}
+#announcementcontent a {
+	color: white;
+}
 
 /* ====== navigation ====== */
 #leftnav {
